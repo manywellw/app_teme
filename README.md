@@ -8,13 +8,13 @@ Bíblia TEME 📖✨ A Bíblia TEME é um aplicativo móvel desenvolvido com um 
 
 | Tela Inicial | Bíblia Sagrada (Leitura) | Estudo com IA (TEME AI) | Favoritos (Visão Geral) |
 | :---: | :---: | :---: | :---: |
-| <img src="ativos/imagens/home.jpeg" width="200" alt="home" /> | <img src="ativos/imagens/biblioteca.jpeg" width="200" alt="biblioteca" /> | <img src="ativos/imagens/ia_int.jpeg" width="200" alt="ia_int" /> | <img src="ativos/imagens/favoritos.jpeg" width="200" alt="favoritos" /> |
+| <img src="assets/images/home.jpeg" width="200" alt="home" /> | <img src="assets/images/biblia.jpeg" width="200" alt="biblia" /> | <img src="assets/images/ia_int.jpeg" width="200" alt="ia_int" /> | <img src="assets/images/favoritos.jpeg" width="200" alt="favoritos" /> |
 
 <br>
 
 | Notas Pessoais | Favorito Selecionado | Áudio do Versículo | Configurações & Apoio |
 | :---: | :---: | :---: | :---: |
-| <img src="ativos/imagens/favorite_notas.jpeg" width="200" alt="favorite_notas" /> | <img src="ativos/imagens/favorito_selecionado.jpeg" width="200" alt="favorito_selecionado" /> | <img src="ativos/imagens/áudio_1_versículo.jpeg" width="200" alt="audio_1_versiculo" /> | <img src="ativos/imagens/config.jpeg" width="200" alt="config" /> |
+| <img src="assets/images/favorite_notas.jpeg" width="200" alt="favorite_notas" /> | <img src="assets/images/favorito_selecionado.jpeg" width="200" alt="favorito_selecionado" /> | <img src="assets/images/audio_1_versículo.jpeg" width="200" alt="audio_1_versiculo" /> | <img src="assets/images/config.jpeg" width="200" alt="config" /> |
 
 
 

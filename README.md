@@ -14,7 +14,7 @@ Bíblia TEME 📖✨ A Bíblia TEME é um aplicativo móvel desenvolvido com um 
 
 | Notas Pessoais | Favorito Selecionado | Áudio do Versículo | Configurações & Apoio |
 | :---: | :---: | :---: | :---: |
-| <img src="assets/images/favorite_notas.jpeg" width="200" alt="favorite_notas" /> | <img src="assets/images/favorito_selecionado.jpeg" width="200" alt="favorito_selecionado" /> | <img src="assets/images/audio_1_versículo.jpeg" width="200" alt="audio_1_versiculo" /> | <img src="assets/images/config.jpeg" width="200" alt="config" /> |
+| <img src="assets/images/favorite_notas.jpeg" width="200" alt="favorite_notas" /> | <img src="assets/images/favorito_selecionado.jpeg" width="200" alt="favorito_selecionado" /> | <img src="assets/images/audio_1_versiculo.jpeg" width="200" alt="audio_1_versiculo" /> | <img src="assets/images/config.jpeg" width="200" alt="config" /> |
 
 
 

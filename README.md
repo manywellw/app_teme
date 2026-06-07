@@ -18,4 +18,4 @@ Bíblia TEME 📖✨ A Bíblia TEME é um aplicativo móvel desenvolvido com um 
 
 
 
-é um projeto de fé e tecnologia. Se você deseja contribuir com melhorias, correções de bugs ou novas funcionalidades que ajudem a levar a Palavra de Deus mais longe, sinta-se à vontade para abrir uma Issue ou enviar um Pull Request.📜 LicençaEste projeto é distribuído sob os princípios de compartilhamento do Evangelho. (Considere adicionar aqui o tipo de licença, ex: MIT, caso pretenda tornar o código aberto).
+é um projeto de fé e tecnologia. Se você deseja contribuir com melhorias, correções de bugs ou novas funcionalidades que ajudem a levar a Palavra de Deus mais longe, sinta-se à vontade para abrir uma Issue ou enviar um Pull Request.
